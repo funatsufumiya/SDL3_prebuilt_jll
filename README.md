@@ -2,15 +2,19 @@
 
 **NOTE**: This repository is not registered in public package manager, so you need to add this via `] add https://github.com/xxx/yyy.git` etc.
 
-## Develop
+## Usage
 
-see https://github.com/funatsufumiya/SDL3_prebuilt_jll_packager.jl
-
-## Check
+see https://github.com/funatsufumiya/SDL3Test.jl
 
 ```bash
 julia --project=@. -e 'using SDL3_prebuilt_jll; println(SDL3_prebuilt_jll.get_lib_path())'
 ```
+
+## Develop
+
+see https://github.com/funatsufumiya/SDL3_prebuilt_jll_packager.jl
+
+### Check
 
 ```julia
 julia> using ArtifactUtils
