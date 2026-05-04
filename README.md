@@ -1,5 +1,7 @@
 # SDL3_prebuilt_jll
 
+**NOTE**: This repository is not registered in public package manager, so you need to add this via `] add https://github.com/xxx/yyy.git` etc.
+
 ## Develop
 
 see https://github.com/funatsufumiya/SDL3_prebuilt_jll_packager.jl
