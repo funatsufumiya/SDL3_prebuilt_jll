@@ -1,0 +1,14 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.6"
+manifest_format = "2.0"
+project_hash = "902a3f3352ac9f2447fad06781cf2a717ba598fc"
+
+[[deps.Artifacts]]
+uuid = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+version = "1.11.0"
+
+[[deps.SDL3_prebuilt_jll]]
+path = "."
+uuid = "c5603e48-dc29-4a18-ab97-2f56521043f2"
+version = "0.1.0"
