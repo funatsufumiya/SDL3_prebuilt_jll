@@ -1,0 +1,4 @@
+name = "SDL3_prebuilt_jll"
+uuid = "c5603e48-dc29-4a18-ab97-2f56521043f2"
+version = "0.1.0"
+authors = ["Fumiya Funatsu <funatsu.fumiya@gmail.com>"]

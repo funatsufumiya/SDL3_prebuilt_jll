@@ -1,0 +1,35 @@
+[[SDL3_prebuilt_jll]]
+git-tree-sha1 = "2374472b1a25d35636d3af017d614061a98eb631"
+os = "windows"
+arch = "x86_64"
+
+    [[SDL3_prebuilt_jll.download]]
+    sha256 = "61d5a8510decb8f5ed8cbf03804cf10926cd9675fbbd8a20614579bc2826fb6c"
+    url = "https://gist.github.com/funatsufumiya/2ce79d85a4e0011d8c4503e5fe762986/raw/2374472b1a25d35636d3af017d614061a98eb631.tar.gz"
+
+[[SDL3_prebuilt_jll]]
+git-tree-sha1 = "c1c26871f1bf890e086fc4ebc473c5156492c1ca"
+os = "macos"
+arch = "x86_64"
+
+    [[SDL3_prebuilt_jll.download]]
+    sha256 = "0165b8ca4edbb36e6972f6b985016530e22a2572af5f8be8f79294f2aca03667"
+    url = "https://gist.github.com/funatsufumiya/ccd9b921777202113c7752ce28f78a46/raw/c1c26871f1bf890e086fc4ebc473c5156492c1ca.tar.gz"
+
+[[SDL3_prebuilt_jll]]
+git-tree-sha1 = "c1c26871f1bf890e086fc4ebc473c5156492c1ca"
+os = "macos"
+arch = "aarch64"
+
+    [[SDL3_prebuilt_jll.download]]
+    sha256 = "0165b8ca4edbb36e6972f6b985016530e22a2572af5f8be8f79294f2aca03667"
+    url = "https://gist.github.com/funatsufumiya/ccd9b921777202113c7752ce28f78a46/raw/c1c26871f1bf890e086fc4ebc473c5156492c1ca.tar.gz"
+
+[[SDL3_prebuilt_jll]]
+git-tree-sha1 = "b26e9d2f6627ff9414ed87eec3e584da1262e0ab"
+os = "linux"
+arch = "x86_64"
+
+    [[SDL3_prebuilt_jll.download]]
+    sha256 = "da2d51b33585e1d9ef557bb014d6dd4f0fe461d369adab3514514558bc23f9bd"
+    url = "https://gist.github.com/funatsufumiya/fa036455a142f7caaca50269a00127a1/raw/b26e9d2f6627ff9414ed87eec3e584da1262e0ab.tar.gz"
